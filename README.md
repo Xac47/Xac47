@@ -28,3 +28,9 @@
 ### Databases
 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-2C3E50?style=flat-square&logo=PostgreSQL)
+
+
+### Learning
+
+![FastAPI](https://img.shields.io/badge/-FastAPI-059386?style=flat-square&logo=FastAPI&logoColor=ffffff)
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-ffffff?style=flat-square&logo=RabbitMQ&logoColor=f76300)
