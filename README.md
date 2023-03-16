@@ -35,6 +35,7 @@
 ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=Linux&logoColor=46A2F1)
 ![Git](https://img.shields.io/badge/-Git-323232?style=flat-square&logo=Git&logoColor=e84e31)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat-square&logo=GitHub&logoColor=F7F7F7)
+
 ![Postman](https://img.shields.io/badge/-Postman-f56933?style=flat-square&logo=Postman&logoColor=F7F7F7)
 
 
