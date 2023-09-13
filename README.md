@@ -1,5 +1,5 @@
 
-## Hi a I'm  Mike Myson 🤯
+## Hi a I'm  Mike Tyson 🤯
 
 
 ## Technology stack
