@@ -1,7 +1,3 @@
-
-## Hi a I'm  Mike Tyson 🤯
-
-
 ## Technology stack
 
 
